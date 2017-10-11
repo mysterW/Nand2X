@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\users\王抒阳\documents\我爱学习，学习使我快乐\大二上\计算思维\nand2tetris\vmtranslater\vmtranslater\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\王抒阳\documents\我爱学习，学习使我快乐\大二上\计算思维\nand2tetris\vmtranslater\vmtranslater\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\王抒阳\documents\我爱学习，学习使我快乐\大二上\计算思维\nand2tetris\vmtranslater\vmtranslater\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  VMtranslater.cpp
+c:\users\王抒阳\documents\我爱学习，学习使我快乐\大二上\计算思维\nand2tetris\vmtranslater\vmtranslater\vmtranslater.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  VMtranslater.vcxproj -> C:\Users\王抒阳\Documents\我爱学习，学习使我快乐\大二上\计算思维\nand2tetris\VMtranslater\Debug\VMtranslator.exe
+  VMtranslater.vcxproj -> C:\Users\王抒阳\Documents\我爱学习，学习使我快乐\大二上\计算思维\nand2tetris\VMtranslater\Debug\VMtranslator.pdb (Partial PDB)
